@@ -1,7 +1,7 @@
 var _ = require('lodash');
 
 var localEnvVars = {
-  TITLE:      'expressapp',
+  TITLE:      'HI EVERYONE',
   SAFE_TITLE: 'expressapp'
 };
 
